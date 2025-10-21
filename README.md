@@ -2,6 +2,8 @@
 
 AI-powered CCTV footage analysis using Google's Gemini 2.0 Flash. This prototype demonstrates automated video analysis, log generation, and event search capabilities.
 
+Access : https://ccvideologginganalysis.streamlit.app/
+
 ## 🌟 Features
 
 - **Automated Frame Extraction**: Extract frames at customizable intervals (default: 5 seconds)
